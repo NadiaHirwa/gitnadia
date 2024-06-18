@@ -1,2 +1,2 @@
 # gitnadia
-just study
+my first PLP repository
